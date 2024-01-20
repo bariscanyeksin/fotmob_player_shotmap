@@ -50,4 +50,4 @@ for i in range(len(maclar)):
 
 final_df = pd.concat(df3)
 
-final_df.to_csv("csv/stsl_final.csv", encoding="utf-8-sig")
+final_df.to_csv("stsl_final.csv", encoding="utf-8-sig")
